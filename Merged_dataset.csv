@@ -1,0 +1,482 @@
+school_name,address,school_type,city,zip_code,grades_offered,website,phone
+Lowell School,1640 KALMIA ROAD NW,"Independent, Elementary, Middle","Washington, D.C",20012.0,K-8,https://www.lowellschool.org,202-577-2000
+Blessed Sacrament School,5841 CHEVY CHASE PARKWAY NW,"Private, Elementary, Middle","Washington, D.C",20015.0,K-8,https://www.bsstoday.org,202-966-6682
+The Bridges Academy,6119 GEORGIA AVENUE NW,"Private, Elementary, Middle","Washington, D.C",20011.0,PreK-8,,202-829-1901
+Milton Gottesman Jewish Day School North Campus,6045 16TH STREET NW,"Private, Elementary, Middle","Washington, D.C",20011.0,2th-8th,https://www.miltongottesman.org/,202-291-5737
+St. John's College High School,2607 MILITARY ROAD NW,"Private, High","Washington, D.C",20015.0,9th-12th,https://www.stjohnschs.org/,202-363-2316
+Georgetown Day School High School,4200 DAVENPORT STREET NW,"Independent, High","Washington, D.C",20016.0,9th-12th,https://www.gds.org,202-274-3200
+Parkmont School,4842 16TH STREET NW,"Private, Middle, High","Washington, D.C",20011.0,6th-12th,https://www.parkmont.org,202-726-0740
+Milton Gottesman Jewish Day School South Campus,4715 16TH STREET NW,"Private, Elementary, Middle","Washington, D.C",20011.0,PreK-1,https://www.miltongottesman.org/,202-291-5737
+Sheridan School,4400 36TH STREET NW,"Independent, Elementary, Middle","Washington, D.C",20008.0,K-8,https://www.sheridanschool.org,202-362-7900
+St. Anselm's Abbey School,4501 SOUTH DAKOTA AVENUE NE,"Private, Middle, High","Washington, D.C",20017.0,4th-12th,https://www.saintanselms.org/ ,202-269-2350
+Edmund Burke School,4101 CONNECTICUT AVENUE NW,"Independent, Middle, High","Washington, D.C",20008.0,6th-12th,https://www.burkeschool.org/,202-362-8882
+National Presbyterian School,4121 NEBRASKA AVENUE NW,"Private, Elementary","Washington, D.C",20016.0,PreK-6,https://www.nps-dc.org,202-537-7500
+Fusion Academy,2000 FLORIDA AVENUE NW,"Private, Middle, High","Washington, D.C",20009.0,6th-12th,https://www.fusionacademy.com/campuses/washington-dc/,202-244-0639
+Archbishop Carroll High,4300 HAREWOOD ROAD NE,"Private, High","Washington, D.C",20017.0,9th-12th,https://www.archbishopcarroll.org/,202-529-0900
+Sidwell Friends School,3825 WISCONSIN AVENUE NW,"Independent, Elementary, Middle, High","Washington, D.C",20016.0,PreK-12th,https://www.sidwell.edu,202-537-8100
+National Child Research Center,3209 HIGHLAND PLACE NW,"Private, Preschool","Washington, D.C",20008.0,Preschool,https://www.ncrcpreschool.org/,202-363-8777
+Washington International School Tregaron Campus,3100 MACOMB STREET NW,"Independent, Middle, High","Washington, D.C",20008.0,6th-12th,https://www.wis.edu,202-243-1800
+Sacred Heart School,1625 PARK ROAD NW,"Private, Elementary, Middle","Washington, D.C",20010.0,K-8,https://sacredheartschooldc.com/,202-265-4828
+St. Anthony Catholic School,3400 12TH STREET NE,"Private, Elementary, Middle","Washington, D.C",20017.0,K-8,https://stanthonyschooldc.org/,202-526-4657
+National Cathedral School,3612 WOODLEY ROAD NW,"Private, Elementary, Middle","Washington, D.C",20016.0,4th-12th,https://ncs.cathedral.org/,202-537-6300
+Annunciation School,3810 MASSACHUSETTS AVENUE NW,"Private, Middle, High","Washington, D.C",20016.0,K-8,https://www.annunciationschool.net/ ,202-362-1408
+Beauvoir School,3500 WOODLEY ROAD NW,"Private, Elementary, Middle","Washington, D.C",20016.0,PreK-3,https://www.beauvoirschool.org/,202-537-6485
+St. Albans School,MOUNT ST. ALBAN,"Private, Elementary","Washington, D.C",20016.0,4th-12th,https://www.stalbansschool.org,202-537-6435
+Maret School,3000 CATHEDRAL AVENUE NW,"Independent, Middle, High","Washington, D.C",20008.0,K-12th,https://www.maret.org,202-939-8800
+Aidan Montessori School,2700 27TH STREET NW,"Private, Elementary, Middle, High","Washington, D.C",20008.0,Toddler-3rd,https://www.aidanschool.org ,202-387-2700
+The Field School,2301 FOXHALL ROAD NW,"Independent, Preschool, Elementary","Washington, D.C",20007.0,6th-12th,https://www.fieldschool.org/,202-295-5800
+St. Augustine Catholic School,1421 V STREET NW,"Private, Middle, High","Washington, D.C",20009.0,K-8,https://www.staug-dc.org/ ,202-667-2608
+The RIver School,4880 MACARTHUR BOULEVARD NW,"Private, Elementary, Middle","Washington, D.C",20007.0,PreK-3rd,https://riverschool.net/,202-337-3554
+British International School of Washington ,2001 WISCONSIN AVENUE NW,"Private, Elementary","Washington, D.C",20007.0,Nursery-12th,https://www.nordangliaeducation.com/bisw-washington,202-829-3700 
+St. Patrick's Episcopal Day School,4700 WHITEHAVEN PARKWAY NW,"Private, Elementary, Middle, High","Washington, D.C",20007.0,Nursery-8th,https://www.stpatsdc.org,202-342-2805
+Our Lady of Victory School,4755 WHITEHAVEN PARKWAY NW,"Private, Elementary, Middle","Washington, D.C",20007.0,K-8,https://www.olvschooldc.net,202-337-1421
+The Lab School of Washington - Reservoir Campus,4759 RESERVOIR ROAD NW,"Private, Elementary, Middle","Washington, D.C",20007.0,1st-8th,https://www.labschool.org,202-965-6600
+Washington International School Primary Campus,1690 36TH STREET NW,"Independent, Elementary, Middle","Washington, D.C",20007.0,Preschool-5th,https://www.wis.edu,202-243-1700
+Little Folks School,3247 Q STREET NW,"Private, Preschool","Washington, D.C",20007.0,Preschool,https://www.littlefolks.org/,202-333-6571
+Georgetown Visitation Preparatory School,1524 35TH STREET NW,"Private, High","Washington, D.C",20007.0,9th-12th,https://www.visi.org,202-337-3350
+Georgetown Day School Lower/Middle School,4200 DAVENPORT STREET NW,"Independent, Elementary, Middle","Washington, D.C",20016.0,PreK-8th,https://www.gds.org,202-295-6200
+Holy Trinity School,1325 36TH STREET NW,"Private, Elementary, Middle","Washington, D.C",20007.0,PreK-8th,https://htsdc.org/,202-337-2339
+Gonzaga College High School,19 I STREET NW,Private,"Washington, D.C",20001.0,9th-12th,https://www.gonzaga.org,202-336-7100
+The Monroe School,601 50TH STREET NE,"Private, Middle, High","Washington, D.C",20019.0,6th-12th,https://monroeschool.net/,202-399-8350
+Nation House School,6101 DIX STREET NE,"Private, Middle, High","Washington, D.C",20019.0,6th-12th,https://nationhouse.org/,202-291-5600
+St. Peter School,422 3RD STREET SE,"Private, Preschool, Elementary, Middle, High","Washington, D.C",20003.0,Preschool-12th,https://www.stpeterschooldc.org/,202-544-1618
+"Cornerstone Schools of Washington, D.C., Inc.",3742 ELY PLACE SE,"Private, Elementary, Middle","Washington, D.C",20019.0,K-8,https://www.cornerstone-schools.org,202-575-0027
+Capitol Hill Day School,210 SOUTH CAROLINA AVENUE SE,"Private, Elementary, Middle","Washington, D.C",20003.0,K-8,https://www.chds.org,202-547-2244
+St. Francis Xavier Catholic Academy,2700 O STREET SE,"Private, Preschool, Elementary","Washington, D.C",20020.0,Preschool-K,https://stfrancisxaviercadc.com/,202-581-2010
+Dupont Park Adventist School,3942 ALABAMA AVENUE SE,"Private, Elementary, Middle","Washington, D.C",20020.0,K-8,https://www.dpcsda.org/school,202-583-8500
+Washington School for Girls - THEARC Campus,1901 MISSISSIPPI AVENUE SE,"Private, Elementary, Middle","Washington, D.C",20020.0,K-8,https://washingtonschoolforgirls.org/,202-678-1113
+Bishop John T. Walker School for Boys,1801 MISSISSIPPI AVENUE SE,"Private, Preschool","Washington, D.C",20020.0,Preschool,https://www.bishopwalkerschool.org/,202-678-1515
+St. Thomas More Catholic Academy,4265 4TH STREET SE,"Private, Preschool","Washington, D.C",20032.0,Early Childhood,https://stmdc.org/,202-561-1189
+Small Savers Montessori,1700 G STREET NW,"Private, High","Washington, D.C",20552.0,High School,https://www.smallsavers.org/,202-414-3085
+NCC Early Learning Center and Early Intervention Center,3400 MARTIN LUTHER KING JR AVENUE SE,"Private, Elementary","Washington, D.C",20032.0,K-8th,https://www.nccinc.org/education,202-279-4900
+New Beginnings Vocational Program,2060 WEST VIRGINIA AVENUE NE,"Private, Elementary, Middle","Washington, D.C",20002.0,K-12th,http://www.newbeginningsvocational.com/,202-636-1190
+Episcopal Center for Children,5901 UTAH AVENUE NW,"Private, Elementary, Middle, High","Washington, D.C",20015.0,6th-12th,https://eccofdc.org/,202-363-1333
+The Kennedy School,801 BUCHANAN STREET NE,"Private, Elementary, Middle","Washington, D.C",20017.0,PK-K,https://www.catholiccharitiesdc.org/program/kennedy-school/,202-281-2700
+Templeton Academy,406 7TH STREET NW,"Private, Elementary, Middle, High","Washington, D.C",20004.0,K-8,https://www.templetonacademy.org/,202-847-0779
+Broad Branch Children's House,5608 BROAD BRANCH ROAD NW,"Private, Middle, High","Washington, D.C",20016.0,Preschool-K,https://www.bbchmontessori.com/,202-232-2233
+Capitol Hill Christian Academy,229 PENNSYVANIA AVENUE SE,"Private, Preschool, Elementary","Washington, D.C",20003.0,Preschool-6th,https://www.capitolhillchristianacademy.org/,909-706-7806
+The Children's House of Washington,3133 DUMBARTON STREET NW,"Private, Elementary, Middle","Washington, D.C",20007.0,Preschool-K,https://chowmontessori.com/,202-342-2551
+Christian Family Montessori School,201 ALLISON STREET NW,"Private, Preschool, Elementary","Washington, D.C",20011.0,Preschool-K,https://www.cfmschool.org/,202-722-1520
+Estrellitas Montessori School,5331 COLORADO AVENUE NW,"Private, Preschool, Elementary","Washington, D.C",20011.0,Early Childhood,https://www.estrellitasdc.com/,202-248-7827
+Georgetown Montessori School,1041 WISCONSIN AVENUE NW,"Private, Preschool, Elementary","Washington, D.C",20007.0,K-8,https://georgetownmontessori.com/,202-337-8058
+Howard University Early Learning Program,531 COLLEGE STREET NW,"Private, Preschool, Elementary","Washington, D.C",20059.0,9th-12th,https://education.howard.edu/affiliated-programs/early-learning-program,202-806-7102
+Kendall Demonstration Elementary School,800 FLORIDA AVENUE NE,"Private, Preschool","Washington, D.C",20002.0,9th-12th,https://kdes.gallaudet.edu/,202-250-2761
+Model Secondary School for the Deaf,800 FLORIDA AVENUE NE,"Private, Elementary, Middle","Washington, D.C",20002.0,K-8,https://mssd.gallaudet.edu/,202-250-2152
+Kuumba Preparatory School of the Arts,3328 MARTIN LUTHER KING JR AVENUE SE,"Private, High","Washington, D.C",20032.0,High School,http://www.kuumbaprep.org/,202-563-5971
+Little Flower Montessori School,3029 16TH STREET NW,"Private, High","Washington, D.C",20009.0,High School,https://littlefloweron16th.wixsite.com/littlefloweron16th,202-667-6803
+Montessori School of Chevy Chase,5312 CONNECTICUT AVENUE NW,"Private, Preschool, Elementary, Middle","Washington, D.C",20015.0,Preschool,https://www.chevychasemontessori.com/,202-362-6212
+The Montessori School of Washington,4380 MACARTHUR BOULEVARD NW,"PrivatePreschool, Elementary","Washington, D.C",20007.0,PK-8th,https://www.montessoriwashington.org/,202-338-1557
+Muhammad University of Islam,3160 PENNSYLVANIA AVENUE SE,"PrivatePreschool, Elementary","Washington, D.C",20020.0,5th-8th,https://www.muhammaduniversitydc.org/,202-517-4945
+Mysa Microschool,1500 HARVARD STREET NW,"PrivatePreschool, Elementary","Washington, D.C",20009.0,PK-8th,https://mysaschool.org/,301-915-0955
+San Miguel School,7705 GEORGIA AVENUE NW,"Private, Preschool, Elementary, Middle","Washington, D.C",20012.0,6th-8th,https://www.sanmigueldc.org/,202-232-8345
+The School for Ethics and Global Leadership,1528 18TH STREET NW,"Private, Elementary, Middle","Washington, D.C",20036.0,10th-11th,https://www.schoolforethics.org/,202-684-7044
+Smithsonian Early Enrichment Center,1300 CONSTITUTION AVENUE NW,"Private, Middle","Washington, D.C",20560.0,Preschool,https://seecstories.com/,202-633-1395
+St. Jerome Institute,1800 PERRY STREET NE,"Private, High","Washington, D.C",20018.0,High School,https://stjeromeinstitute.org/,202-390-1289
+The Lab School of Washington - Foxhall Campus,1550 FOXHALL ROAD NW,"Private, Preschool","Washington, D.C",20007.0,High School,https://www.labschool.org/,202-580-7055
+Triangle Tots,1300 PENNSYLVANIA AVENUE NW,"Private, High","Washington, D.C",20229.0,Preschool,https://child-care-preschool.brighthorizons.com/dc/washington/triangletots,202-212-6685
+Ujamaa School,1554 8TH STREET NW,"Private, High","Washington, D.C",20002.0,PK-8th,https://www.ujamaaschooldc.com/,202-232-2997
+Washington Jesuit Academy,900 VARNUM STREET NE,"Private, Preschool","Washington, D.C",20017.0,5th-8th,https://www.wjacademy.org/,202-832-7679
+Waterfront Academy,222 M STREET SW,"Private, Elementary, Middle","Washington, D.C",20024.0,PK-8th,https://www.waterfrontacademy.org/,202-484-0044
+Washington School for Girls - The VIEW Campus,1604 MORRIS ROAD SE,"Private, Middle","Washington, D.C",20020.0,3rd-8th,https://washingtonschoolforgirls.org/,202-678-1113
+Aldrin,11375 Center Harbor Rd,Elementary,Reston,20194.0,K6,https://aldrines.fcps.edu/,7039043800
+Annandale Terrace,7604 Herald St,Elementary,Annandale,22003.0,K5,https://annandaleterracees.fcps.edu/,7036585600
+Armstrong,11900 Lake Newport Rd,Elementary,Reston,20194.0,K6,https://armstronges.fcps.edu/,7033754800
+Bailey's,6111 Knollwood Dr,Elementary,Falls Church,22041.0,K2,https://baileyses.fcps.edu/,7035756800
+Belle View,6701 Fort Hunt Rd,Elementary,Alexandria,22307.0,K6,https://belleviewes.fcps.edu/,7036608300
+Belvedere,6540 Columbia Pike,Elementary,Falls Church,22041.0,K5,https://belvederees.fcps.edu/,7039166800
+Bonnie Brae,5420 Sideburn Rd,Elementary,Fairfax,22032.0,K6,https://bonniebraees.fcps.edu/,7033213900
+Braddock,7825 Heritage Dr,Elementary,Annandale,22003.0,K5,https://braddockes.fcps.edu/,7039147300
+Bren Mar Park,6344 Beryl Rd,Elementary,Alexandria,22312.0,K5,https://brenmarparkes.fcps.edu/,7039147200
+Brookfield,4200 Lees Corner Rd,Elementary,Chantilly,20151.0,K6,https://brookfieldes.fcps.edu/,7038148700
+Bucknell,6925 University Dr,Elementary,Alexandria,22307.0,K6,https://bucknelles.fcps.edu/,7036602900
+Bull Run,15301 Route 29,Elementary,Centreville,20121.0,K6,https://bullrunes.fcps.edu/,7032271400
+Bush Hill,5927 Westchester St,Elementary,Alexandria,22310.0,K6,https://bushhilles.fcps.edu/,7039245600
+Camelot,8100 Guinevere Dr,Elementary,Annandale,22003.0,K6,https://camelotes.fcps.edu/,7036457000
+Cameron,3434 Campbell Dr,Elementary,Alexandria,22303.0,K6,https://camerones.fcps.edu/,7033292100
+Canterbury Woods,4910 Willet Dr,Elementary,Annandale,22003.0,K6,https://canterburywoodses.fcps.edu/,7037645600
+Cardinal Forest,8600 Forrester Blvd,Elementary,Springfield,22152.0,K6,https://cardinalforestes.fcps.edu/,7039235200
+Centre Ridge,14400 New Braddock Rd,Elementary,Centreville,20121.0,K6,https://centreridgees.fcps.edu/,7032272600
+Centreville,14330 Green Trails Blvd,Elementary,Centreville,20121.0,K6,https://centrevillees.fcps.edu/,7035023500
+Cherry Run,9732 Ironmaster Dr,Elementary,Burke,22015.0,K6,https://cherryrunes.fcps.edu/,7039232800
+Chesterbrook,1753 Kirby Rd,Elementary,McLean,22101.0,K6,https://chesterbrookes.fcps.edu/,7037148200
+Churchill Road,7100 Churchill Rd,Elementary,McLean,22101.0,K6,https://churchillroades.fcps.edu/,7032888400
+Clearview,12635 Builders Rd,Elementary,Herndon,20170.0,K6,https://clearviewes.fcps.edu/,7037086000
+Clermont,5720 Clermont Dr,Elementary,Alexandria,22310.0,K6,https://clermontes.fcps.edu/,7039212400
+Coates,2480 River Birch Rd,Elementary,Herndon,20171.0,K6,https://coateses.fcps.edu/,7037133000
+Columbia,6720 Alpine Dr,Elementary,Annandale,22003.0,K6,https://columbiaes.fcps.edu/,7039162500
+Colvin Run,1400 Trap Rd,Elementary,Vienna,22182.0,K6,https://colvinrunes.fcps.edu/,7037573000
+Crestwood,6010 Hanover Ave,Elementary,Springfield,22150.0,K6,https://crestwoodes.fcps.edu/,7039235400
+Crossfield,2791 Fox Mill Rd,Elementary,Herndon,20171.0,K6,https://crossfieldes.fcps.edu/,7032951100
+Cub Run,5301 Sully Station Dr,Elementary,Centreville,20120.0,K6,https://cubrunes.fcps.edu/,7036337500
+Cunningham Park,1001 Park St Se ,Elementary,Vienna,22180.0,K6,https://cunninghamparkes.fcps.edu/,7032555600
+Daniels Run,3705 Old Lee Hwy,Elementary,Fairfax,22030.0,K6,https://danielsrunes.fcps.edu/,7032798400
+Deer Park,15109 Carlbern Dr,Elementary,Centreville,20120.0,K6,https://deerparkes.fcps.edu/,7038025000
+Dogwood,12300 Glade Dr,Elementary,Reston,20191.0,K6,https://dogwoodes.fcps.edu/,7032623100
+Dranesville,1515 Powells Tavern Pl,Elementary,Herndon,20170.0,K6,https://dranesvillees.fcps.edu/,7033265200
+Eagle View,4500 Dixie Hill Rd,Elementary,Fairfax,22030.0,K6,https://eagleviewes.fcps.edu/,7033223100
+Fairfax Villa,10900 Santa Clara Dr,Elementary,Fairfax,22030.0,K6,https://fairfaxvillaes.fcps.edu/,7032672800
+Fairhill,3001 Chichester Ln,Elementary,Fairfax,22031.0,K6,https://fairhilles.fcps.edu/,7032088100
+Fairview,5815 Ox Rd,Elementary,Fairfax Station,22039.0,K6,https://fairviewes.fcps.edu/,7035033700
+Flint Hill,2444 Flint Hill Rd,Elementary,Vienna,22181.0,K6,https://flinthilles.fcps.edu/,7032426100
+Floris,2708 Centreville Rd,Elementary,Herndon,20171.0,K6,https://florises.fcps.edu/,7035612900
+Forest Edge,1501 Becontree Ln,Elementary,Reston,20190.0,K6,https://forestedgees.fcps.edu/,7039258000
+Forestdale,6530 Elder Ave,Elementary,Springfield,22150.0,K6,https://forestdalees.fcps.edu/,7033134300
+Forestville,1085 Utterback Store Rd,Elementary,Great Falls,22066.0,K6,https://forestvillees.fcps.edu/,7034046000
+Fort Hunt,8832 Linton Ln,Elementary,Alexandria,22308.0,K6,https://forthuntes.fcps.edu/,7036192600
+Fox Mill,2611 Viking Dr,Elementary,Herndon,20171.0,K6,https://foxmilles.fcps.edu/,7032622700
+Franconia,6301 Beulah St,Elementary,Alexandria,22310.0,K6,https://franconiaes.fcps.edu/,7038222200
+Franklin Sherman,6633 Brawner St,Elementary,McLean,22101.0,K6,https://franklinshermanes.fcps.edu/,7035067900
+Freedom Hill,1945 Lord Fairfax Rd,Elementary,Vienna,22182.0,K6,https://freedomhilles.fcps.edu/,7035067800
+Garfield,7101 Old Keene Mill Rd,Elementary,Springfield,22150.0,K6,https://garfieldes.fcps.edu/,7039232900
+Glen Forest,5829 Glen Forest Dr,Elementary,Falls Church,22041.0,K5,https://glenforestes.fcps.edu/,7035788000
+Graham Road,2831 Graham Rd,Elementary,Falls Church,22042.0,K6,https://grahamroades.fcps.edu/,5712262700
+Great Falls,701 Walker Rd,Elementary,Great Falls,22066.0,K6,https://greatfallses.fcps.edu/,7037572100
+Greenbriar East,13006 Point Pleasant Dr,Elementary,Fairfax,22033.0,K6,https://greenbriareastes.fcps.edu/,7036336400
+Greenbriar West,13300 Poplar Tree Rd,Elementary,Fairfax,22033.0,K6,https://greenbriarwestes.fcps.edu/,7036336700
+Groveton,6900 Harrison Ln,Elementary,Alexandria,22306.0,K6,https://grovetones.fcps.edu/,7037188000
+Gunston,10100 Gunston Rd,Elementary,Lorton,22079.0,K6,https://gunstones.fcps.edu/,7035413600
+Halley,8850 Cross Chase Cir,Elementary,Fairfax Station,22039.0,K6,https://halleyes.fcps.edu/,7035515700
+Haycock,6616 Haycock Rd,Elementary,Falls Church,22043.0,K6,https://haycockes.fcps.edu/,7035314000
+Hayfield,7633 Telegraph Rd,Elementary,Alexandria,22315.0,K6,https://hayfieldes.fcps.edu/,7039244500
+Herndon,630 Dranesville Rd,Elementary,Herndon,20170.0,K6,https://herndones.fcps.edu/,7033263100
+Hollin Meadows,2310 Nordok Pl,Elementary,Alexandria,22306.0,K6,https://hollinmeadowses.fcps.edu/,7037188300
+Hunt Valley,7107 Sydenstricker Rd,Elementary,Springfield,22152.0,K6,https://huntvalleyes.fcps.edu/,7039138800
+Hunters Woods,2401 Colts Neck Rd,Elementary,Reston,20191.0,K6,https://hunterswoodses.fcps.edu/,7032627400
+Hutchison,13209 Parcher Ave,Elementary,Herndon,20170.0,K6,https://hutchisones.fcps.edu/,7039258300
+Hybla Valley,3415 Lockheed Blvd,Elementary,Alexandria,22306.0,K6,https://hyblavalleyes.fcps.edu/,7037187000
+Island Creek,7855 Morning View Ln,Elementary,Alexandria,22315.0,K6,https://islandcreekes.fcps.edu/,5716426300
+Keene Mill,6310 Bardu Ave,Elementary,Springfield,22152.0,K6,https://keenemilles.fcps.edu/,7036444700
+Kent Gardens,1717 Melbourne Dr,Elementary,McLean,22101.0,K6,https://kentgardenses.fcps.edu/,7033945600
+Kings Park,5400 Harrow Way,Elementary,Springfield,22151.0,K3,https://kingsparkes.fcps.edu/,7034267000
+Lake Anne,11510 North Shore Dr,Elementary,Reston,20190.0,K6,https://lakeannees.fcps.edu/,7033263500
+Lane,7137 Beulah St,Elementary,Alexandria,22315.0,K6,https://lanees.fcps.edu/,7039247700
+Laurel Hill,8390 Laurel Crest Dr,Elementary,Lorton,22079.0,K6,https://laurelhilles.fcps.edu/,7035515300
+Laurel Ridge,10110 Commonwealth Blvd,Elementary,Fairfax,22032.0,K6,https://laurelridgees.fcps.edu/,7034263700
+Lees Corner,13500 Hollinger Ave,Elementary,Fairfax,22033.0,K6,https://leescorneres.fcps.edu/,7032273500
+Lemon Road,7230 Idylwood Rd,Elementary,Falls Church,22043.0,K6,https://lemonroades.fcps.edu/,7037146400
+Little Run,4511 Olley Ln,Elementary,Fairfax,22032.0,K6,https://littlerunes.fcps.edu/,7035033500
+London Towne,6100 Stone Rd,Elementary,Centreville,20120.0,K6,https://londontownees.fcps.edu/,7032275400
+Lorton Station,9298 Lewis Chapel Rd,Elementary,Lorton,22079.0,K6,https://lortonstationes.fcps.edu/,5716426000
+Louise Archer,324 Nutley St Nw,Elementary,Vienna,22180.0,K6,https://archeres.fcps.edu/,7039376200
+Lynbrook,5801 Backlick Rd,Elementary,Springfield,22150.0,K6,https://lynbrookes.fcps.edu/,7038662940
+Mantua,9107 Horner Ct,Elementary,Fairfax,22031.0,K6,https://mantuaes.fcps.edu/,7036456300
+Marshall Road,730 Marshall Rd Sw,Elementary,Vienna,22180.0,K6,https://marshallroades.fcps.edu/,7039371500
+Mason Crest,3705 Crest Dr,Elementary,Annandale,22003.0,K5,https://masoncrestes.fcps.edu/,5712262600
+Mosaic,9819 Five Oaks Rd,Elementary,Fairfax,22031.0,K6,https://mosaices.fcps.edu/,7039371600
+Mount Eagle,6116 N Kings Hwy,Elementary,Alexandria,22303.0,K6,https://mounteaglees.fcps.edu/,7037212100
+Mount Vernon Woods,4015 Fielding St,Elementary,Alexandria,22309.0,K6,https://mountvernonwoodses.fcps.edu/,7036192800
+Navy,3500 West Ox Rd,Elementary,Fairfax,22033.0,K6,https://navyes.fcps.edu/,7032627100
+Newington Forest,8001 Newington Forest Ave,Elementary,Springfield,22153.0,K6,https://newingtonforestes.fcps.edu/,7039232600
+North Springfield,7602 Heming Ct,Elementary,Springfield,22151.0,K5,https://northspringfieldes.fcps.edu/,7036585500
+Oak Hill,3210 Kinross Cir,Elementary,Herndon,20171.0,K6,https://oakhilles.fcps.edu/,7034673500
+Oak View,5004 Sideburn Rd,Elementary,Fairfax,22032.0,K6,https://oakviewes.fcps.edu/,7037647100
+Oakton,3000 Chain Bridge Rd,Elementary,Oakton,22124.0,K6,https://oaktones.fcps.edu/,7039376100
+Olde Creek,9524 Old Creek Dr,Elementary,Fairfax,22032.0,K6,https://oldecreekes.fcps.edu/,7034263100
+Orange Hunt,6820 Sydenstricker Rd,Elementary,Springfield,22152.0,K6,https://orangehuntes.fcps.edu/,7039136800
+Parklawn,4116 Braddock Rd,Elementary,Alexandria,22312.0,K5,https://parklawnes.fcps.edu/,7039146900
+Pine Spring,7607 Willow Ln,Elementary,Falls Church,22042.0,K6,https://pinespringes.fcps.edu/,5712264400
+Poplar Tree,13440 Melville Ln,Elementary,Chantilly,20151.0,K6,https://poplartreees.fcps.edu/,7036337400
+Powell,13340 Leland Rd,Elementary,Centreville,20120.0,K6,https://powelles.fcps.edu/,5715226000
+Providence,3616 Jermantown Rd,Elementary,Fairfax,22030.0,K6,https://providencees.fcps.edu/,7034604400
+Ravensworth,5411 Nutting Dr,Elementary,Springfield,22151.0,K6,https://ravensworthes.fcps.edu/,7034263600
+Riverside,8410 Old Mt Vernon Rd,Elementary,Alexandria,22309.0,K6,https://riversidees.fcps.edu/,7037996000
+Rolling Valley,6703 Barnack Dr,Elementary,Springfield,22152.0,K6,https://rollingvalleyes.fcps.edu/,7039232700
+Rose Hill,6301 Rose Hill Dr,Elementary,Alexandria,22310.0,K6,https://rosehilles.fcps.edu/,7033134200
+Sangster,7420 Reservation Dr,Elementary,Springfield,22153.0,K6,https://sangsteres.fcps.edu/,7036448200
+Saratoga,8111 Northumberland Rd,Elementary,Springfield,22153.0,K6,https://saratogaes.fcps.edu/,7034402600
+Shrevewood,7525 Shreve Rd,Elementary,Falls Church,22043.0,K6,https://shrevewoodes.fcps.edu/,7036456600
+Silverbrook,9350 Crosspointe Dr,Elementary,Fairfax Station,22039.0,K6,https://silverbrookes.fcps.edu/,7036905100
+Sleepy Hollow,3333 Sleepy Hollow Rd,Elementary,Falls Church,22044.0,K5,https://sleepyhollowes.fcps.edu/,7032377000
+Spring Hill,8201 Lewinsville Rd,Elementary,McLean,22102.0,K6,https://springhilles.fcps.edu/,7035063400
+Springfield Estates,6200 Charles C Goff Dr,Elementary,Springfield,22150.0,K6,https://springfieldestateses.fcps.edu/,7039212300
+Stenwood,2620 Gallows Rd,Elementary,Vienna,22180.0,K6,https://stenwoodes.fcps.edu/,7032087600
+Stratford Landing,8484 Riverside Rd,Elementary,Alexandria,22308.0,K6,https://stratfordlandinges.fcps.edu/,7036193600
+Sunrise Valley,10824 Cross School Rd,Elementary,Reston,20191.0,K6,https://sunrisevalleyes.fcps.edu/,7037153800
+Terra Centre,6000 Burke Centre Pkwy,Elementary,Burke,22015.0,K6,https://terracentrees.fcps.edu/,7032491400
+Terraset,11411 Ridge Heights Rd,Elementary,Reston,20191.0,K6,https://terrasetes.fcps.edu/,7033905600
+Timber Lane,2737 West St,Elementary,Falls Church,22046.0,K6,https://timberlanees.fcps.edu/,7032065300
+Union Mill,13611 Springstone Dr,Elementary,Clifton,20124.0,K6,https://unionmilles.fcps.edu/,7033228500
+Vienna,128 Center St S,Elementary,Vienna,22180.0,K6,https://viennaes.fcps.edu/,7039376000
+Virginia Run,15450 Martins Hundred Dr,Elementary,Centreville,20120.0,K6,https://virginiarunes.fcps.edu/,7039888900
+Wakefield Forest,4011 Iva Ln,Elementary,Fairfax,22032.0,K6,https://wakefieldforestes.fcps.edu/,7035032300
+Waples Mill,11509 Waples Mill Rd,Elementary,Oakton,22124.0,K6,https://waplesmilles.fcps.edu/,7033907700
+Washington Mill,9100 Cherrytree Dr,Elementary,Alexandria,22309.0,K6,https://washingtonmilles.fcps.edu/,7036192500
+Waynewood,1205 Waynewood Blvd,Elementary,Alexandria,22308.0,K6,https://waynewoodes.fcps.edu/,7037047100
+West Springfield,6802 Deland Dr,Elementary,Springfield,22152.0,K6,https://westspringfieldes.fcps.edu/,7039124400
+Westbriar,1741 Pine Valley Dr,Elementary,Vienna,22182.0,K6,https://westbriares.fcps.edu/,7039371700
+Westgate,7500 Magarity Rd,Elementary,Falls Church,22043.0,K6,https://westgatees.fcps.edu/,7036105700
+Westlawn,3200 Westley Rd,Elementary,Falls Church,22042.0,K6,https://westlawnes.fcps.edu/,7032415100
+Weyanoke,6520 Braddock Rd,Elementary,Alexandria,22312.0,K5,https://weyanokees.fcps.edu/,7038135400
+White Oaks,6130 Shiplett Blvd,Elementary,Burke,22015.0,K6,https://whiteoakses.fcps.edu/,7039231400
+Willow Springs,5400 Willow Springs School Rd,Elementary,Fairfax,22030.0,K6,https://willowspringses.fcps.edu/,7036796000
+Wolftrap,1903 Beulah Rd,Elementary,Vienna,22182.0,K6,https://wolftrapes.fcps.edu/,7033197300
+Woodburn,3401 Hemlock Dr,Elementary,Falls Church,22042.0,K6,https://woodburnes.fcps.edu/,7036418200
+Woodlawn,8505 Highland Ln,Elementary,Alexandria,22309.0,K6,https://woodlawnes.fcps.edu/,7036194800
+Woodley Hills,8718 Old Mt Vernon Rd,Elementary,Alexandria,22309.0,K6,https://woodleyhillses.fcps.edu/,7037992000
+Beech Tree,3401 Beechtree Ln,Elementary,Falls Church,22042.0,K5,https://beechtreees.fcps.edu/,7035312600
+Fort Belvoir Primary,5980 Meeres Rd,Elementary,Fort Belvoir,22060.0,K2,https://fortbelvoires.fcps.edu/,7037812700
+McNair,2499 Thomas Jefferson Dr,Elementary,Herndon,20171.0,K2,https://mcnaires.fcps.edu/,7037934800
+Fort Belvoir Upper,5970 Meeres Rd,Elementary,Fort Belvoir,22060.0,K3,https://fortbelvoires.fcps.edu/,7037812700
+Bailey's Upper,6245 Leesburg Pike,Elementary,Falls Church,22044.0,K5,https://baileyses.fcps.edu/,7035032700
+McNair Upper,2410 Fox Mill Rd,Elementary,Herndon,20171.0,K5,https://mcnaires.fcps.edu/,5719821700
+Kings Glen,5401 Danbury Forest Dr,Elementary,Springfield,22151.0,K5,https://kingsglenes.fcps.edu/,7032394000
+Key Elementary School,5001 DANA PLACE NW,Elementary School,"Washington, D.C",20016.0,4th-5th,http://keyschooldc.org/dcps/,202-729-3280
+King Elementary School,3200 6TH STREET SE,Elementary School,"Washington, D.C",20032.0,3rd-5th,http://profiles.dcps.dc.gov/King+Elementary+School,202-939-4900
+Kramer Middle School,1700 Q STREET SE,Middle School,"Washington, D.C",20020.0,6th-8th,http://www.myschooldc.org/schools/profile/56/,202-939-3150
+Lafayette Elementary School,5701 BROAD BRANCH ROAD NW,Elementary School,"Washington, D.C",20015.0,4th-5th,http://www.lafayettehsa.org,202-282-0116
+Langdon Elementary School,1900 EVARTS STREET NE,Elementary School,"Washington, D.C",20018.0,3rd-5th,http://profiles.dcps.dc.gov/Langdon+Elementary+School,202-576-6048
+Langley Elementary School,101 T STREET NE,Elementary School,"Washington, D.C",20002.0,3rd-5th,http://www.langleyelementary.org/,202-576-6034
+LaSalle-Backus Elementary School,501 RIGGS ROAD NE,Elementary School,"Washington, D.C",20011.0,3rd-5th,http://www.lasallebackus.com/,202-671-6340
+Leckie Education Campus,4201 MARTIN LUTHER KING JR AVENUE SW,Elementary School,"Washington, D.C",20032.0,3rd-8th,http://www.leckielionsdc.org/,202-645-3330
+Ludlow-Taylor Elementary School,659 G STREET NE,Elementary School,"Washington, D.C",20002.0,3rd-5th,http://www.ludlowtaylor.org,202-698-3244
+Luke C. Moore High School,1001 MONROE STREET NE,Youth Engagement,"Washington, D.C",20017.0,9th-12th,http://profiles.dcps.dc.gov/Luke+C.+Moore+High+School,202-281-3600
+MacFarland Middle School,4400 IOWA AVENUE NW,Middle School,"Washington, D.C",20011.0,6th-7th,http://profiles.dcps.dc.gov/MacFarland+Middle+School,202-671-6033
+Malcolm X Elementary School @ Green,1500 MISSISSIPPI AVENUE SE,Elementary School,"Washington, D.C",20032.0,3rd-5th,http://profiles.dcps.dc.gov/Malcolm+X+Elementary+School+%40+Green,202-645-3409
+Ballou High School,3401 4TH STREET SE,High School,"Washington, D.C",20032.0,9th-12th,http://www.balloudc.org/,202-645-3400
+Ballou STAY High School,3401 4TH STREET SE,Youth Engagement,"Washington, D.C",20032.0,9th-12th,http://www.balloustay.com/,202-645-3390
+Lorraine H. Whitlock Elementary School,533 48TH PLACE NE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://profiles.dcps.dc.gov/Aiton+Elementary+School,202-671-6060
+Mann Elementary School,4430 NEWARK STREET NW,Elementary School,"Washington, D.C",20016.0,4th-5th,http://www.horacemanndc.org/,202-282-0126
+Marie Reed Elementary School,2201 18TH STREET NW,Elementary School,"Washington, D.C",20009.0,3rd-5th,http://mariereedes.org/,202-673-7308
+McKinley Middle School,151 T STREET NE,Middle School,"Washington, D.C",20002.0,6th-8th,http://profiles.dcps.dc.gov/McKinley+Middle+School,202-281-3950
+McKinley Technology High School,151 T STREET NE,High School/Specialized,"Washington, D.C",20002.0,9th-12th,http://mckinleytech.org/,202-281-3950
+Military Road Early Learning Center,1375 MISSOURI AVENUE NW,Specialized School,"Washington, D.C",20011.0,3rd-4th,,202-671-6410
+Miner Elementary School,601 15TH STREET NE,Elementary School,"Washington, D.C",20002.0,3rd-5th,http://www.minerelementary.org/,202-397-3960
+Moten Elementary School,1565 MORRIS ROAD SE,Elementary School,"Washington, D.C",20020.0,3rd-5th,http://www.myschooldc.org/schools/profile/75/,202-698-1111
+Murch Elementary School,4810 36TH STREET NW,Elementary School,"Washington, D.C",20008.0,4th-5th,http://www.murchschool.org,202-282-0130
+Nalle Elementary School,219 50TH STREET SE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://profiles.dcps.dc.gov/Nalle+Elementary+School,202-671-6280
+Noyes Elementary School,2725 10TH STREET NE,Elementary School,"Washington, D.C",20018.0,3rd-5th,http://profiles.dcps.dc.gov/Noyes+Elementary+School,202-281-2580
+Oyster-Adams Bilingual School (Adams),2020 19TH STREET NW,Middle School,"Washington, D.C",20009.0,4th-8th,http://oysteradamsbilingual.org/,202-673-7311
+Oyster-Adams Bilingual School (Oyster),2801 CALVERT STREET NW,Elementary School,"Washington, D.C",20008.0,4th-3rd,http://oysteradamsbilingual.org/,202-671-6130
+Patterson Elementary School,4399 SOUTH CAPITOL TERRACE SW,Elementary School,"Washington, D.C",20032.0,3rd-5th,http://www.myschooldc.org/schools/profile/82/,202-939-5280
+Payne Elementary School,1445 C STREET SE,Elementary School,"Washington, D.C",20003.0,3rd-5th,http://paynedc.org/,202-698-3262
+Peabody Elementary School,425 C STREET NE,Elementary School,"Washington, D.C",20002.0,KG-3rd,http://profiles.dcps.dc.gov/Peabody+Elementary+School+(Capitol+Hill+Cluster),202-698-3277
+"Phelps Architecture, Construction, and Engineering High School",704 26TH STREET NE,High School/Specialized,"Washington, D.C",20002.0,9th-12th,http://phelpshsdc.org/,202-729-4360
+Plummer Elementary School,4601 TEXAS AVENUE SE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://profiles.dcps.dc.gov/Plummer+Elementary+School,202-939-4360
+Powell Elementary School,1350 UPSHUR STREET NW,Elementary School,"Washington, D.C",20011.0,3rd-5th,http://www.powellbilingualelementary.com/,202-671-6270
+Randle Highlands Elementary School,1650 30TH STREET SE,Elementary School,"Washington, D.C",20020.0,3rd-5th,http://www.randlehighlandselementary.org/,202-729-3250
+Raymond Elementary School,915 SPRING ROAD NW,Elementary School,"Washington, D.C",20010.0,3rd-5th,http://raymondeducationcampus.org/,202-576-6236
+River Terrace Education Campus,405 Anacostia Ave NE,Special Education,"Washington, D.C",20019.0,SPED,http://profiles.dcps.dc.gov/River+Terrace+Education+Campus,202-442-7111
+Ron Brown College Preparatory High School,4800 MEADE STREET NE,High School/Specialized,"Washington, D.C",20019.0,9th-11th,http://profiles.dcps.dc.gov/Ron+Brown+College+Preparatory+High+School,202-729-4343
+Kimball Elementary School,3375 MINNESOTA AVENUE SE,Elementary School,"Washington, D.C",,3rd-5th,http://profiles.dcps.dc.gov/Kimball+Elementary+School+%40+Davis,202-671-6260
+Hyde-Addison Elementary School,3219 O STREET NW,Elementary School,"Washington, D.C",,3rd-5th,http://profiles.dcps.dc.gov/Hyde-Addison+Elementary+School,202-282-0170
+Maury Elementary School,1250 CONSTITUTION AVENUE NE,Elementary School,"Washington, D.C",,3rd-5th,http://www.mauryelementary.com,202-698-3838
+John Lewis Elementary School,1338 FARRAGUT STREET NW,Elementary School,"Washington, D.C",20011.0,3rd-5th,http://www.westschool.org/,202-576-6226
+Boone Elementary School,2200 MINNESOTA AVENUE SE,Elementary School,"Washington, D.C",20020.0,3rd-5th,http://www.orrelementary.org/,202-671-6240
+Roosevelt High School,4301 13TH STREET NW,High School,"Washington, D.C",20011.0,9th-12th,http://profiles.dcps.dc.gov/Roosevelt+High+School,202-576-6130
+Ross Elementary School,1730 R STREET NW,Elementary School,"Washington, D.C",20009.0,3rd-5th,http://www.rosselementary.org/,202-673-7200
+Savoy Elementary School,2400 SHANNON PLACE SE,Elementary School,"Washington, D.C",20020.0,3rd-5th,http://profiles.dcps.dc.gov/Savoy+Elementary+School,202-939-2000
+John Francis Education Campus,2425 N STREET NW,Education Campus,"Washington, D.C",20037.0,3rd-8th,http://www.swwfs.org/,202-724-4841
+School Without Walls High School,2130 G STREET NW,High School/Specialized,"Washington, D.C",20037.0,9th-12th,http://www.swwhs.org/,202-645-9690
+School-Within-School,920 F STREET NE,Elementary School/Specialized,"Washington, D.C",20002.0,3rd-5th,http://www.schoolwithinschool.org,202-673-8275
+Seaton Elementary School,1503 10TH STREET NW,Elementary School,"Washington, D.C",20001.0,3rd-5th,http://seatondc.org/,202-673-7215
+Shepherd Elementary School,7800 14TH STREET NW,Elementary School,"Washington, D.C",20012.0,3rd-5th,http://www.shepherd-elementary.org,202-576-6140
+Simon Elementary School,401 MISSISSIPPI AVENUE SE,Elementary School,"Washington, D.C",20032.0,3rd-5th,http://profiles.dcps.dc.gov/Simon+Elementary+School,202-645-3360
+Smothers Elementary School,4400 BROOKS STREET NE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://www.myschooldc.org/schools/profile/104/,202-939-3600
+Sousa Middle School,3650 ELY PLACE SE,Middle School,"Washington, D.C",20019.0,6th-8th,http://www.sousamiddleschool.org/,202-729-3260
+Stanton Elementary School,2701 NAYLOR ROAD SE,Elementary School,"Washington, D.C",20020.0,3rd-5th,http://profiles.dcps.dc.gov/Stanton+Elementary+School,202-671-6180
+Beers Elementary School,3600 ALABAMA AVENUE SE,Elementary School,"Washington, D.C",20020.0,3rd-5th,http://profiles.dcps.dc.gov/Beers+Elementary+School,202-939-4800
+Benjamin Banneker High School,1600 9TH STREET NW,High School/Specialized,"Washington, D.C",20001.0,9th-12th,http://www.benjaminbanneker.org/,202-671-6320
+Brent Elementary School,301 NORTH CAROLINA AVENUE SE,Elementary School,"Washington, D.C",20003.0,3rd-5th,http://brentelementary.org/,202-698-3363
+Brightwood Elementary School,1300 NICHOLSON STREET NW,Elementary School,"Washington, D.C",20011.0,3rd-5th,http://www.brightwoodec.org/,202-722-5670
+Brookland Middle School,1150 MICHIGAN AVENUE NE,Middle School,"Washington, D.C",20017.0,6th-8th,https://brooklandms.wordpress.com/,202-576-6095
+Browne Education Campus,850 26TH STREET NE,Education Campus,"Washington, D.C",20002.0,3rd-8th,http://profiles.dcps.dc.gov/Browne+Education+Campus,202-671-6210
+Bruce-Monroe Elementary School @ Park View,3560 WARDER STREET NW,Elementary School,"Washington, D.C",20010.0,3rd-5th,http://www.bmpv.org/,202-576-6222
+MacArthur High School,4530 MACARTHUR BOULEVARD NW,High School,"Washington, D.C",20007.0,9th-12th,,202-299-5506
+Bunker Hill Elementary School,1401 MICHIGAN AVENUE NE,Elementary School,"Washington, D.C",20017.0,3rd-5th,http://profiles.dcps.dc.gov/Bunker+Hill+Elementary+School,202-576-6095
+Burroughs Elementary School,1820 MONROE STREET NE,Elementary School,"Washington, D.C",20018.0,3rd-5th,http://www.jbecstem.com/,202-576-6150
+Burrville Elementary School,801 DIVISION AVENUE NE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://www.burrvillees.org/,202-671-6020
+Stevens Early Learning Center,1050 21ST STREET NW,Specialized School,"Washington, D.C",20036.0,3rd-4th,https://profiles.dcps.dc.gov/Thaddeus+Stevens+Early+Learning+Center,202-698-0677
+Stoddert Elementary School,4001 CALVERT STREET NW,Elementary School,"Washington, D.C",20007.0,4th-5th,http://www.stoddert.org,202-671-6030
+Stuart-Hobson Middle School,410 E STREET NE,Middle School,"Washington, D.C",20002.0,6th-8th,http://www.capitolhillclusterschool.org/our-schools/stuart-hobson-middle-school,202-671-6010
+Takoma Elementary School,7010 PINEY BRANCH ROAD NW,Elementary School,"Washington, D.C",20012.0,3rd-5th,http://www.takomaec.us/,202-671-6050
+Thomas Elementary School,650 ANACOSTIA AVENUE NE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://www.nevalthomas.org/,202-724-4593
+Thomson Elementary School,1200 L STREET NW,Elementary School,"Washington, D.C",20005.0,3rd-5th,http://www.thomsondcps.org/,202-898-4660
+Truesdell Elementary School,800 INGRAHAM STREET NW,Elementary School,"Washington, D.C",20011.0,3rd-5th,http://profiles.dcps.dc.gov/Truesdell+Education+Campus,202-576-6202
+Tubman Elementary School,3101 13TH STREET NW,Elementary School,"Washington, D.C",20010.0,3rd-5th,http://profiles.dcps.dc.gov/tubman,202-673-7285
+Turner Elementary School,3264 STANTON ROAD SE,Elementary School,"Washington, D.C",20032.0,3rd-5th,http://www.myschooldc.org/schools/profile/116/,202-645-3470
+Shirley Chisholm Elementary School,1001 G STREET SE,Elementary School,"Washington, D.C",20003.0,3rd-5th,http://www.tylerelementary.net,202-939-4810
+Van Ness Elementary School,1150 5TH STREET SE,Elementary School,"Washington, D.C",20003.0,3rd-5th,http://vannesselementary.org/,202-698-3818
+Walker-Jones Education Campus,1125 NEW JERSEY AVENUE NW,Education Campus,"Washington, D.C",20001.0,3rd-8th,http://walkerjoneseducampus.org/,202-939-5934
+Watkins Elementary School,420 12TH STREET SE,Elementary School,"Washington, D.C",20003.0,1th-5th,http://www.capitolhillclusterschool.org/our-schools/watkins-elementary,202-698-3355
+Wheatley Education Campus,1299 NEAL STREET NE,Education Campus,"Washington, D.C",20002.0,3rd-8th,http://profiles.dcps.dc.gov/Wheatley+Education+Campus,202-939-5970
+Whittier Elementary School,6201 5TH STREET NW,Elementary School,"Washington, D.C",20011.0,3rd-5th,http://www.whittierdc.org/,202-576-6156
+Woodson High School,540 55TH STREET NE,High School,"Washington, D.C",20016.0,9th-12th,http://www.hdwoodsonwarriors.org/,202-724-4632
+Youth Services Center,1000 MOUNT OLIVET ROAD NE,Youth Engagement,"Washington, D.C",20002.0,Alternative,http://profiles.dcps.dc.gov/Youth+Services+Center,202-576-8388
+Amidon-Bowen Elementary School,401 I STREET SW,Elementary School,"Washington, D.C",20024.0,3rd-5th,http://profiles.dcps.dc.gov/Amidon-Bowen+Elementary+School,202-724-4867
+Anacostia High School,1601 16TH STREET SE,High School,"Washington, D.C",20020.0,9th-12th,http://profiles.dcps.dc.gov/anacostia,202-698-2155
+Bancroft Elementary School,1755 NEWTON STREET NW,Elementary School,"Washington, D.C",20010.0,3rd-5th,http://www.bancroftelementary.org,202-673-7280
+Bard High School Early College DC,1351 ALABAMA AVENUE SE,High School/Specialized,"Washington, D.C",20032.0,9th-12th,https://www.myschooldc.org/schools/profile/415,202-898-4664
+Barnard Elementary School,430 DECATUR STREET NW,Elementary School,"Washington, D.C",20011.0,3rd-5th,http://www.myschooldc.org/schools/profile/7/,202-576-1100
+Garnet-Patterson STAY High School,2001 10TH STREET NW,Youth Engagement,"Washington, D.C",20001.0,9th-12th,http://www.rooseveltstay.org/,202-576-8399
+C.W. Harris Elementary School,301 53RD STREET SE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://cwharriselementary.org/,202-645-3188
+Capitol Hill Montessori,215 G STREET NE,Elementary School/Specialized,"Washington, D.C",20002.0,3rd-8th,http://capitolhillmontessorischool.org/,202-698-4467
+Cardozo Education Campus,1200 CLIFTON STREET NW,Middle School/High School,"Washington, D.C",20009.0,7th-12th,http://www.cardozohs.com/,202-673-7385
+Cleveland Elementary School,1825 8TH STREET NW,Elementary School,"Washington, D.C",20001.0,3rd-5th,http://clevelandesdc.org/,202-939-4380
+Columbia Heights Education Campus 6–8 (CHEC),3101 16TH STREET NW,Education Campus,"Washington, D.C",20010.0,6th-12th,http://www.checdc.org,202-939-7700
+Columbia Heights Education Campus 9–12 (CHEC),3101 16TH STREET NW,Education Campus,"Washington, D.C",20010.0,6th-12th,http://www.checdc.org,202-939-7700
+Coolidge High School,6315 5TH STREET NW,High School,"Washington, D.C",20012.0,9th-12th,http://www.coolidgeshs.org/,202-671-6080
+Deal Middle School,3815 FORT DRIVE NW,Middle School,"Washington, D.C",20016.0,6th-8th,http://alicedeal.org/,202-939-2010
+Dorothy I. Height Elementary School,1300 ALLISON STREET NW,Elementary School,"Washington, D.C",20011.0,3rd-5th,http://www.dorothyheightes.org/,202-723-4100
+Drew Elementary School,5600 EADS STREET NE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://www.drewelementary.org/,202-671-6040
+Duke Ellington School of the Arts,3500 R STREET NW,High School/Specialized,"Washington, D.C",20007.0,9th-12th,http://www.ellingtonschool.org,202-282-0123
+Dunbar High School,101 N ST NW,High School,"Washington, D.C",20001.0,9th-12th,http://www.dunbarhsdc.org/,202-698-3762
+Early College Academy at Coolidge High School,6315 5TH STREET NW,High School/Specialized,"Washington, D.C",20012.0,9th-12th,http://www.coolidgeshs.org/,202-671-6080
+Eastern High School,1700 EAST CAPITOL STREET NE,High School,"Washington, D.C",20003.0,9th-12th,http://easternhighschooldc.org/intro/,202-698-4500
+Eaton Elementary School,3301 LOWELL STREET NW,Elementary School,"Washington, D.C",20008.0,4th-5th,http://www.eatondc.org/,202-282-0103
+Eliot-Hine Middle School,1830 CONSTITUTION AVENUE NE,Middle School,"Washington, D.C",20002.0,6th-8th,http://www.eliothinemiddleschool.org/,202-939-5380
+Excel Academy,2501 MARTIN LUTHER KING JR AVENUE SE,Education Campus,"Washington, D.C",20020.0,3rd-8th,http://www.excelpcs.org,202-373-0097
+Fillmore Arts Center (West),1819 35TH STREET NW,Specialized School,"Washington, D.C",20007.0,6th-8th,http://www.fillmoreartscenter.org/,202-729-3796
+Garfield Elementary School,2435 ALABAMA AVENUE SE,Elementary School,"Washington, D.C",20020.0,3rd-5th,http://www.myschooldc.org/schools/profile/37/,202-671-6140
+Garrison Elementary School,1200 S STREET NW,Elementary School,"Washington, D.C",20009.0,3rd-5th,http://www.garrisonelementary.org/,202-673-7263
+H.D. Cooke Elementary School,2525 17TH STREET NW,Elementary School,"Washington, D.C",20009.0,3rd-5th,http://www.hdcookeschool.org/,202-939-5390
+Hardy Middle School,1819 35TH STREET NW,Middle School,"Washington, D.C",20007.0,6th-8th,http://www.hardyms.org,202-729-4350
+Hart Middle School,601 MISSISSIPPI AVENUE SE,Middle School,"Washington, D.C",20032.0,6th-8th,http://www.charleshartmiddle.org/,202-671-6426
+Hearst Elementary School,3950 37TH STREET NW,Elementary School,"Washington, D.C",20008.0,4th-5th,http://www.hearstes.org/,202-282-0106
+Hendley Elementary School,425 CHESAPEAKE STREET SE,Elementary School,"Washington, D.C",20032.0,3rd-5th,http://profiles.dcps.dc.gov/Hendley+Elementary+School,202-645-3450
+Houston Elementary School,1100 50TH PLACE NE,Elementary School,"Washington, D.C",20019.0,3rd-5th,http://www.myschooldc.org/schools/profile/44/,202-671-6170
+Ida B. Wells Middle School,405 SHERIDAN STREET NW,Middle School,"Washington, D.C",20011.0,6th-8th,http://nms.sdmf.schoolfusion.us/,202-671-0693
+Inspiring Youth Program,1901 D STREET SE,Youth Engagement,"Washington, D.C",20003.0,Alternative,http://profiles.dcps.dc.gov/Inspiring+Youth+Program,202-698-5978
+J.O. Wilson Elementary School,660 K STREET NE,Elementary School,"Washington, D.C",20002.0,3rd-5th,http://profiles.dcps.dc.gov/J.O.+Wilson+Elementary+School,202-698-4733
+Jackson-Reed High School (formerly Wilson HS),3950 CHESAPEAKE STREET NW,High School,"Washington, D.C",20016.0,9th-12th,http://www.wilsonhs.org/,202-282-0120
+Janney Elementary School,4130 ALBEMARLE STREET NW,Elementary School,"Washington, D.C",20016.0,4th-5th,http://www.janneyschool.org/,202-282-0110
+Jefferson Middle School Academy,801 7TH STREET SW,Middle School,"Washington, D.C",20024.0,6th-8th,http://www.jeffersontrojans.org/,202-729-3270
+Johnson Middle School,1400 BRUCE PLACE SE,Middle School,"Washington, D.C",20020.0,6th-8th,http://profiles.dcps.dc.gov/Johnson+Middle+School,202-939-3140
+Kelly Miller Middle School,301 49TH STREET NE,Middle School,"Washington, D.C",20019.0,6th-8th,http://kellymillerms.org/,202-388-6870
+Ketcham Elementary School,1919 15TH STREET SE,Elementary School,"Washington, D.C",20020.0,3rd-5th,http://profiles.dcps.dc.gov/Ketcham+Elementary+School,202-698-1122
+Carson,13618 McLearen Rd,Middle,Herndon,20171.0,6th-8th,https://carsonms.fcps.edu/,
+Cooper,977 Balls Hill Rd,Middle,McLean,22101.0,7th-8th,https://cooperms.fcps.edu/,
+Franklin,3300 Lees Corner Rd,Middle,Chantilly,20151.0,7th-8th,https://franklinms.fcps.edu/,
+Frost,4101 Pickett Rd,Middle,Fairfax,22032.0,7th-8th,https://frostms.fcps.edu/,
+Glasgow,4101 Fairfax Pkwy,Middle,Alexandria,22312.0,6th-8th,https://glasgowms.fcps.edu/,
+Hayfield,7630 Telegraph Rd,Middle,Alexandria,22315.0,7th-8th,https://hayfieldss.fcps.edu/,
+Herndon,901 Locust St,Middle,Herndon,20170.0,7th-8th,https://herndonms.fcps.edu/,
+Holmes,6525 Montrose St,Middle,Alexandria,22312.0,6th-8th,https://holmesms.fcps.edu/,
+Hughes,11401 Ridge Heights Rd,Middle,Reston,20191.0,7th-8th,https://hughesms.fcps.edu/,
+Irving,8100 Old Keene Mill Rd,Middle,Springfield,22152.0,7th-8th,https://irvingms.fcps.edu/,
+Jackson,3020 Gallows Rd,Middle,Falls Church,22042.0,7th-8th,https://jacksonms.fcps.edu/,
+Key,6402 Franconia Rd,Middle,Springfield,22150.0,6th-8th,https://keyms.fcps.edu/,
+Kilmer,8100 Wolftrap Rd,Middle,Vienna,22182.0,7th-8th,https://kilmerms.fcps.edu/,
+Lake Braddock,9200 Burke Lake Rd,Middle,Burke,22015.0,7th-8th,https://lakebraddockss.fcps.edu/,
+Katherine Johnson,3801 Jermantown Rd,Middle,Fairfax,22030.0,7th-8th,https://johnsonms.fcps.edu/,
+Liberty,6801 Union Mill Rd,Middle,Clifton,20124.0,6th-8th,https://libertyms.fcps.edu/,
+Poe,7000 Cindy Ln,Middle,Annandale,22003.0,6th-8th,https://poems.fcps.edu/,
+Robinson,5035 Sideburn Rd,Middle,Fairfax,22032.0,7th-8th,https://robinsonss.fcps.edu/,
+Rocky Run,4400 Stringfellow Rd,Middle,Chantilly,20151.0,7th-8th,https://rockyrunms.fcps.edu/,
+Sandburg,8428 Fort Hunt Rd,Middle,Alexandria,22308.0,7th-8th,https://sandburgms.fcps.edu/,
+South County,8700 Laurel Crest Dr,Middle,Lorton,22079.0,7th-8th,https://southcountyms.fcps.edu/,
+Stone,5500 Sully Park Dr,Middle,Centreville,20120.0,7th-8th,https://stonems.fcps.edu/,
+Thoreau,2505 Cedar Ln,Middle,Vienna,22180.0,7th-8th,https://thoreaums.fcps.edu/,
+Twain,4700 Franconia Rd,Middle,Alexandria,22310.0,7th-8th,https://twainms.fcps.edu/,
+Whitman,2500 Parkers Ln,Middle,Alexandria,22306.0,7th-8th,https://whitmanms.fcps.edu/,
+Longfellow,2000 Westmoreland St,Middle,Falls Church,22043.0,7th-8th,https://longfellowms.fcps.edu/,
+Brooklyn Park Middle School,200 Hammonds Lane,Middle,Baltimore,21225.0,6th-8th,https://www.aacps.org/o/brooklynparkms,
+Chesapeake Bay Middle School,4804 Mountain Rd,Middle,Pasadena,21122.0,6th-8th,https://www.aacps.org/o/chesapeakebayms,
+Corkran Middle School,7600 Quarterfield Road,Middle,Severn,21061.0,6th-8th,https://www.aacps.org/o/corkranms,
+Lindale Middle School,415 Andover Road,Middle,Linthicum Heights,21090.0,6th-8th,https://www.aacps.org/o/lindalems,
+MacArthur Middle School,3500 Rockenbach Road,Middle,Fort George G. Meade,20755.0,6th-8th,https://www.aacps.org/o/macarthurms,
+Marley Middle School,10 Davis Court,Middle,Glen Burnie,21060.0,6th-8th,https://www.aacps.org/o/marleymms,
+Meade Middle School,1103 26th Street,Middle,Fort George G. Meade,20755.0,6th-8th,https://www.aacps.org/o/meadems,
+Northeast Middle School,7922 Outing Avenue,Middle,Pasadena,21122.0,6th-8th,https://www.aacps.org/o/northeastms,
+Old Mill Middle North School,610 Patriot Lane,Middle,Millersville,21108.0,6th-8th,https://www.aacps.org/o/oldmillmiddlenorth,
+Old Mill Middle South School,620 Patriot Lane,Middle,Millersville,21108.0,6th-8th,https://www.aacps.org/o/oldmillmiddlesouth,
+Magothy River Middle School,241 Peninsula Farm Road,Middle,Arnold,21012.0,6th-8th,https://www.aacps.org/o/magothyriverms,
+Severn River Middle School,241 Peninsula Farm Road,Middle,Arnold,21012.0,6th-8th,https://www.aacps.org/o/severnriverms,
+Severna Park Middle School,450 Jumpers Hole Road,Middle,Severna Park,21146.0,6th-8th,https://www.aacps.org/o/severnaparkms,
+Southern Middle School,5235 Solomons Island Road,Middle,Lothian,20711.0,6th-8th,https://www.aacps.org/o/southernms,
+Annapolis Middle School,1399 Forest Drive,Middle,Annapolis,21403.0,6th-8th,https://www.aacps.org/o/annapolisms,
+Bates Middle School,701 Chase Street,Middle,Annapolis,21401.0,6th-8th,https://www.aacps.org/o/batesms,
+Central Middle School,221 Central Avenue East,Middle,Edgewater,21037.0,6th-8th,https://www.aacps.org/o/centralms,
+Crofton Middle School,2301 Davidsonville Road,Middle,Gambrills,21054.0,6th-8th,https://www.aacps.org/o/croftonms,
+Arundel Middle School,1179 Hammond Lane,Middle,Odenton,21113.0,6th-8th,https://www.aacps.org/o/arundelms,
+Belle Grove Elementary School,4502 BELLE GROVE RD,Elementary,BALTIMORE,21225.0,PK-5th,https://www.aacps.org/o/bellegrovees,
+Bodkin Elementary School,8320 VENTNOR RD,Elementary,PASADENA,21122.0,PK-5th,https://www.aacps.org/o/bodkines,
+Brock Bridge Elementary School,405 BROCK BRIDGE RD,Elementary,LAUREL,20724.0,PK-5th,https://www.aacps.org/o/brockbridgees,
+Brooklyn Park Elementary School,200 14TH AVE,Elementary,BALTIMORE,21225.0,PK-5th,https://www.aacps.org/o/fortsmallwoodes,
+Fort Smallwood Elementary School,1720 POPLAR RIDGE RD,Elementary,PASADENA,21122.0,PK-5th,https://www.aacps.org/o/freetownes,
+Freetown Elementary School,7904 FREETOWN RD,Elementary,GLEN BURNIE,21060.0,PK-5th,https://www.aacps.org/o/glenburnieparkes,
+Glen Burnie Park Elementary School,500 MARLBORO RD,Elementary,GLEN BURNIE,21061.0,PK-5th,https://www.aacps.org/o/georgecromwelles,
+George Cromwell Elementary School,525 WELLHAM AVE,Elementary,GLEN BURNIE,21060.0,PK-5th,https://www.aacps.org/o/georgecromwelles,
+Glendale Elementary School,105 CARROLL RD,Elementary,GLEN BURNIE,21060.0,PK-5th,https://www.aacps.org/o/glendalees,
+Hebron-Harman Elementary School,7660 RIDGE CHAPEL RD,Elementary,HANOVER,21076.0,PK-5th,https://www.aacps.org/o/hebronharmones,
+High Point Elementary School,924 DUVALL HWY,Elementary,PASADENA,21122.0,PK-5th,https://www.aacps.org/o/highpointes,
+Hilltop Elementary School,415 MELROSE AVE,Elementary,GLEN BURNIE,21061.0,PK-5th,https://www.aacps.org/o/hilltopes,
+Jacobsville Elementary School,3801 MOUNTAIN RD,Elementary,PASADENA,21122.0,PK-5th,https://www.aacps.org/o/jacobsvillees,
+Jessup Elementary School,2900 ELEMENTARY SCHOOL LN,Elementary,JESSUP,20794.0,PK-5th,https://www.aacps.org/o/jessupes,
+Lake Shore Elementary School,4531 MOUNTAIN RD,Elementary,PASADENA,21122.0,PK-5th,https://www.aacps.org/o/lakeshorees,
+Linthicum Elementary School,101 SCHOOL LN,Elementary,LINTHICUM HEIGHTS,21090.0,PK-5th,https://www.aacps.org/o/linthicumes,
+Manor View Elementary School,2900 MACARTHUR RD,Elementary,FORT MEADE,20755.0,PK-5th,https://www.aacps.org/o/manorviewes,
+Marley Elementary School,715 COOPER RD,Elementary,GLEN BURNIE,21060.0,PK-5th,https://www.aacps.org/o/marleyes,
+Maryland City Elementary School,3359 CRUMPTON S,Elementary,LAUREL,20724.0,PK-5th,https://www.aacps.org/o/marylandcityes,
+Meade Heights Elementary School,1925 REECE RD,Elementary,FORT MEADE,20755.0,PK-5th,https://www.aacps.org/o/meadeheightses,
+Millersville Elementary School,1601 MILLERSVILLE RD,Elementary,MILLERSVILLE,21108.0,PK-5th,https://www.aacps.org/o/millersvillees,
+North Glen Elementary School,615 W FURNACE BRANCH RD,Elementary,GLEN BURNIE,21225.0,PK-5th,https://www.aacps.org/o/northglenes,
+Oakwood Elementary School,330 OAK MANOR DR,Elementary,GLEN BURNIE,21061.0,PK-5th,https://www.aacps.org/o/oakwoodes,
+Overlook Elementary School,401 HAMPTON RD,Elementary,LINTHICUM HEIGHTS,21090.0,PK-5th,https://www.aacps.org/o/overlookes,
+Park Elementary School,201 E 11TH AVE,Elementary,BALTIMORE,21225.0,PK-5th,https://www.aacps.org/o/parkes,
+Pasadena Elementary School,401 Pasadena Rd,Elementary,PASADENA,21122.0,PK-5th,https://www.aacps.org/o/pasadenaes,
+Pershing Hill Elementary School,7600 29TH DIVISION RD,Elementary,FORT MEADE,20755.0,PK-5th,https://www.aacps.org/o/pershinghilles,
+Point Pleasant Elementary School,1035 DUMBARTON RD,Elementary,GLEN BURNIE,21060.0,PK-5th,https://www.aacps.org/o/pointpleasantes,
+Quarterfield Elementary School,7967 QUARTERFIELD RD,Elementary,SEVERN,21144.0,PK-5th,https://www.aacps.org/o/quarterfieldes,
+Richard Henry Lee Elementary School,400 A ST SW,Elementary,GLEN BURNIE,21061.0,PK-5th,https://www.aacps.org/o/richardhenryleees,
+Ridgeway Elementary School,1440 EVERGREEN RD,Elementary,SEVERN,21144.0,PK-5th,https://www.aacps.org/o/ridgewayes,
+Rippling Woods Elementary School,530 NOLFIELD DR,Elementary,GLEN BURNIE,21061.0,PK-5th,https://www.aacps.org/o/ripplingwoodses,
+Riviera Beach Elementary School,8515 JENKINS RD,Elementary,PASADENA,21122.0,PK-5th,https://www.aacps.org/o/rivierabeaches,
+Seven Oaks Elementary School,1905 TOWN CENTER BLVD,Elementary,ODENTON,21113.0,PK-5th,https://www.aacps.org/o/sevenoakses,
+Severn Elementary School,838 REECE RD,Elementary,SEVERN,21144.0,PK-5th,https://www.aacps.org/o/severnes,
+Southgate Elementary School,290 SHETLANDS LN,Elementary,GLEN BURNIE,21061.0,PK-5th,https://www.aacps.org/o/southgatees,
+Solley Elementary School,7608 SOLLEY RD,Elementary,GLEN BURNIE,21060.0,PK-5th,https://www.aacps.org/o/solleyes,
+South Shore Elementary School,1376 FAIRFEILD LOOP RD,Elementary,CROWNSVILLE,21032.0,PK-5th,https://www.aacps.org/o/southshorees,
+Sunset Elementary School,8572 FORT SMALLWOOD RD,Elementary,PASADENA,21122.0,PK-5th,https://www.aacps.org/o/sunsetes,
+Van Bokkelen Elementary School,1140 REECE RD,Elementary,SEVERN,21144.0,PK-5th,https://www.aacps.org/o/vanbokkelenes,
+Woodside Elementary School,160 FUNKE RD,Elementary,GLEN BURNIE,21061.0,PK-5th,https://www.aacps.org/o/woodsidees,
+Shady Side Elementary School,4859 ATWELL RD,Elementary,SHADY SIDE,20764.0,PK-5th,https://www.aacps.org/o/shadysidees,
+Broadneck Elementary School,470 SHORE ACRES RD,Elementary,ARNOLD,21012.0,PK-5th,https://www.aacps.org/o/broadneckes,
+Belvedere Elementary School,360 BROADWATER RD,Elementary,ARNOLD,21012.0,PK-5th,https://www.aacps.org/o/belvederees,
+Waugh Chapel Elementary School,840 SUNFLOWER DR,Elementary,ODENTON,21113.0,PK-5th,https://www.aacps.org/o/waughchapeles,
+Mayo Elementary School,1260 MAYO RIDGE RD,Elementary,EDGEWATER,21037.0,PK-5th,https://www.aacps.org/o/mayoes,
+Crofton Meadows Elementary School,2020 TILGHMAN DR,Elementary,CROFTON,21114.0,PK-5th,https://www.aacps.org/o/croftonmeadowses,
+Deale Elementary School,759 MASONS BEACH RD,Elementary,DEALE,20758.0,PK-5th,https://www.aacps.org/o/dealees,
+Tracey's Elementary School,20 DEALE RD,Elementary,TRACYS LANDING,20779.0,PK-5th,https://www.aacps.org/o/traceyses,
+Odenton Elementary School,1290 ODENTON RD,Elementary,ODENTON,21113.0,PK-5th,https://www.aacps.org/o/odentones,
+Lothian Elementary School,5175 SOLOMONS ISLAND RD,Elementary,LOTHIAN,20711.0,PK-5th,https://www.aacps.org/o/lothianes,
+Windsor Farm Elementary School,591 BROADNECK RD,Elementary,ANNAPOLIS,21409.0,PK-5th,https://www.aacps.org/o/windsorfarmes,
+Davidsonville Elementary School,962 CENTRAL AVE W,Elementary,DAVIDSONVILLE,21035.0,PK-5th,https://www.aacps.org/o/davidsonvillees,
+Crofton Woods Elementary School,1750 URBY DR,Elementary,CROFTON,21114.0,PK-5th,https://www.aacps.org/o/croftonwoodses,
+Four Seasons Elementary School,979 WAUGH CHAPEL RD,Elementary,GAMBRILLS,21113.0,PK-5th,https://www.aacps.org/o/fourseasonses,
+Nantucket Elementary School,2350 NANTUCKET DR,Elementary,CROFTON,21114.0,PK-5th,https://www.aacps.org/o/nantucketes,
+Cape St. Claire Elementary School,931 Blue Ridge Dr,Elementary,Annapolis,21409.0,PK-5th,https://www.aacps.org/o/capestclairees,
+Folger McKinsey Elementary School,175 ARUNDEL BEACH RD,Elementary,SEVERNA PARK,21146.0,PK-5th,https://www.aacps.org/o/folgermckinseyes,
+Severna Park Elementary School,6 RIGGS AVE,Elementary,SEVERNA PARK,21146.0,PK-5th,https://www.aacps.org/o/severnaparkes,
+Shipley's Choice Elementary School,310 GOVERNOR STONE PKWY,Elementary,MILLERSVILLE,21108.0,PK-5th,https://www.aacps.org/o/shipleyschoicees,
+Benfield Elementary School,365 LYNWOOD DR,Elementary,SEVERNA PARK,21146.0,PK-5th,https://www.aacps.org/o/benfieldes,
+Central Elementary School,130 STEPNEY LN,Elementary,EDGEWATER,21037.0,PK-5th,https://www.aacps.org/o/centrales,
+Eastport Elementary School,420 FIFTH AVE,Elementary,ANNAPOLIS,21403.0,PK-5th,https://www.aacps.org/o/eastportes,
+Annapolis Elementary School,180 GREEN ST,Elementary,ANNAPOLIS,21401.0,PK-5th,https://www.aacps.org/o/annapolises,
+Tyler Heights Elementary School,200 JANWAL ST,Elementary,ANNAPOLIS,21403.0,PK-5th,https://www.aacps.org/o/tylerheightses,
+Rolling Knolls Elementary School,1985 VALLEY RD,Elementary,ANNAPOLIS,21401.0,PK-5th,https://www.aacps.org/o/rollingknollses,
+Germantown Elementary School,1411 CEDAR PARK RD,Elementary,ANNAPOLIS,21401.0,PK-5th,https://www.aacps.org/o/germantownes,
+West Annapolis Elementary School,210 ANNAPOLIS ST,Elementary,ANNAPOLIS,21401.0,PK-5th,https://www.aacps.org/o/westannapolises,
+Georgetown East Elementary School,111 DOGWOOD RD,Elementary,ANNAPOLIS,21403.0,PK-5th,https://www.aacps.org/o/georgetowneastes,
+Hillsmere Elementary School,3052 ARUNDEL ON THE BAY RD,Elementary,ANNAPOLIS,21403.0,PK-5th,https://www.aacps.org/o/hillsmerees,
+Arnold Elementary School,90 CHURCH RD,Elementary,ARNOLD,21012.0,PK-5th,https://www.aacps.org/o/arnoldes,
+Oak Hill Elementary School,34 TRUCKHOUSE RD,Elementary,SEVERNA PARK,21146.0,PK-5th,https://www.aacps.org/o/oakhilles,
+Edgewater Elementary School,121 WASHINGTON RD,Elementary,EDGEWATER,21037.0,PK-5th,https://www.aacps.org/o/edgewateres,
+Mills-Parole Elementary School,103 CHINQUAPIN ROUND RD,Elementary,ANNAPOLIS,21401.0,PK-5th,https://www.aacps.org/o/mills-parolees,
+Crofton Elementary School,1405 DUKE OF KENT,Elementary,CROFTON,21114.0,PK-5th,https://www.aacps.org/o/croftones,
+Jones Elementary School,122 HOYLE DR,Elementary,SEVERNA PARK,21146.0,PK-5th,https://www.aacps.org/o/joneses,
+Piney Orchard Elementary School,2641 STRAWBERRY LAKE WAY,Elementary,ODENTON,21113.0,PK-5th,https://www.aacps.org/o/pineyorchardes,
+West County Elementary School,2754 CONWAY RD,Elementary,ODENTON,21113.0,PK-5th,https://www.aacps.org/o/westcountyes,
+Chesapeake High School,4798 MOUNTAIN RD,High School,PASADENA,21122.0,9th-12th,https://www.aacps.org/o/chesapeakehs,
+Glen Burnie High School,7550 BALTIMORE ANNAPLOIS BLVD SE,High School,GLEN BURNIE,21061.0,9th-12th,https://www.aacps.org/o/glenburniehs,
+Meade High School,1100 CLARK RD,High School,FORT MEADE,20755.0,9th-12th,https://www.aacps.org/o/meadehs,
+Northeast High School,1121 DUVALL HWY,High School,PASADENA,21122.0,9th-12th,https://www.aacps.org/o/northeasths,
+North County High School,10 E 1ST AVE,High School,GLEN BURNIE,21061.0,9th-12th,https://www.aacps.org/o/northcountyhs,
+Old Mill High School,600 PATRIOT LN,High School,MILLERSVILLE,21108.0,9th-12th,https://www.aacps.org/o/oldmillhs,
+Old Mill West High School,600 PATRIOT LN,High School,MILLERSVILLE,21108.0,9th-12th,https://www.aacps.org/o/oldmillwesths,
+Annapolis High School,2700 RIVA RD,High School,ANNAPOLIS,21401.0,9th-12th,https://www.aacps.org/o/annapolishs,
+Broadneck High School,1265 GREEN HOLLY DR,High School,ANNAPOLIS,21409.0,9th-12th,https://www.aacps.org/o/broadneckhs,
+Severna Park High School,60 ROBINSON RD,High School,SEVERNA PARK,21146.0,9th-12th,https://www.aacps.org/o/severnaparkhs,
+Southern High School,4400 SOLOMONS ISLAND RD,High School,HARWOOD,20776.0,9th-12th,https://www.aacps.org/o/southernhs,
+Arundel High School,1001 ANNAPOLIS RD,High School,GAMBRILLS,21054.0,9th-12th,https://www.aacps.org/o/arundelhs,
+Crofton High School,2291 DAVIDSONVILLE RD,High School,GAMBRILLS,21054.0,9th-12th,https://www.aacps.org/o/croftonhs,
+South River High School,201 CENTRAL AVE E,High School,EDGEWATER,21037.0,9th-12th,https://www.aacps.org/o/southriverhs,
