@@ -1,0 +1,143 @@
+school_name,address,school_type,city,zip_code,grades_offered,website,phone
+Aldrin,11375 Center Harbor Rd,Elementary,Reston,20194,K6,https://aldrines.fcps.edu/,7039043800
+Annandale Terrace,7604 Herald St,Elementary,Annandale,22003,K5,https://annandaleterracees.fcps.edu/,7036585600
+Armstrong,11900 Lake Newport Rd,Elementary,Reston,20194,K6,https://armstronges.fcps.edu/,7033754800
+Bailey's,6111 Knollwood Dr,Elementary,Falls Church,22041,K2,https://baileyses.fcps.edu/,7035756800
+Belle View,6701 Fort Hunt Rd,Elementary,Alexandria,22307,K6,https://belleviewes.fcps.edu/,7036608300
+Belvedere,6540 Columbia Pike,Elementary,Falls Church,22041,K5,https://belvederees.fcps.edu/,7039166800
+Bonnie Brae,5420 Sideburn Rd,Elementary,Fairfax,22032,K6,https://bonniebraees.fcps.edu/,7033213900
+Braddock,7825 Heritage Dr,Elementary,Annandale,22003,K5,https://braddockes.fcps.edu/,7039147300
+Bren Mar Park,6344 Beryl Rd,Elementary,Alexandria,22312,K5,https://brenmarparkes.fcps.edu/,7039147200
+Brookfield,4200 Lees Corner Rd,Elementary,Chantilly,20151,K6,https://brookfieldes.fcps.edu/,7038148700
+Bucknell,6925 University Dr,Elementary,Alexandria,22307,K6,https://bucknelles.fcps.edu/,7036602900
+Bull Run,15301 Route 29,Elementary,Centreville,20121,K6,https://bullrunes.fcps.edu/,7032271400
+Bush Hill,5927 Westchester St,Elementary,Alexandria,22310,K6,https://bushhilles.fcps.edu/,7039245600
+Camelot,8100 Guinevere Dr,Elementary,Annandale,22003,K6,https://camelotes.fcps.edu/,7036457000
+Cameron,3434 Campbell Dr,Elementary,Alexandria,22303,K6,https://camerones.fcps.edu/,7033292100
+Canterbury Woods,4910 Willet Dr,Elementary,Annandale,22003,K6,https://canterburywoodses.fcps.edu/,7037645600
+Cardinal Forest,8600 Forrester Blvd,Elementary,Springfield,22152,K6,https://cardinalforestes.fcps.edu/,7039235200
+Centre Ridge,14400 New Braddock Rd,Elementary,Centreville,20121,K6,https://centreridgees.fcps.edu/,7032272600
+Centreville,14330 Green Trails Blvd,Elementary,Centreville,20121,K6,https://centrevillees.fcps.edu/,7035023500
+Cherry Run,9732 Ironmaster Dr,Elementary,Burke,22015,K6,https://cherryrunes.fcps.edu/,7039232800
+Chesterbrook,1753 Kirby Rd,Elementary,McLean,22101,K6,https://chesterbrookes.fcps.edu/,7037148200
+Churchill Road,7100 Churchill Rd,Elementary,McLean,22101,K6,https://churchillroades.fcps.edu/,7032888400
+Clearview,12635 Builders Rd,Elementary,Herndon,20170,K6,https://clearviewes.fcps.edu/,7037086000
+Clermont,5720 Clermont Dr,Elementary,Alexandria,22310,K6,https://clermontes.fcps.edu/,7039212400
+Coates,2480 River Birch Rd,Elementary,Herndon,20171,K6,https://coateses.fcps.edu/,7037133000
+Columbia,6720 Alpine Dr,Elementary,Annandale,22003,K6,https://columbiaes.fcps.edu/,7039162500
+Colvin Run,1400 Trap Rd,Elementary,Vienna,22182,K6,https://colvinrunes.fcps.edu/,7037573000
+Crestwood,6010 Hanover Ave,Elementary,Springfield,22150,K6,https://crestwoodes.fcps.edu/,7039235400
+Crossfield,2791 Fox Mill Rd,Elementary,Herndon,20171,K6,https://crossfieldes.fcps.edu/,7032951100
+Cub Run,5301 Sully Station Dr,Elementary,Centreville,20120,K6,https://cubrunes.fcps.edu/,7036337500
+Cunningham Park,1001 Park St Se ,Elementary,Vienna,22180,K6,https://cunninghamparkes.fcps.edu/,7032555600
+Daniels Run,3705 Old Lee Hwy,Elementary,Fairfax,22030,K6,https://danielsrunes.fcps.edu/,7032798400
+Deer Park,15109 Carlbern Dr,Elementary,Centreville,20120,K6,https://deerparkes.fcps.edu/,7038025000
+Dogwood,12300 Glade Dr,Elementary,Reston,20191,K6,https://dogwoodes.fcps.edu/,7032623100
+Dranesville,1515 Powells Tavern Pl,Elementary,Herndon,20170,K6,https://dranesvillees.fcps.edu/,7033265200
+Eagle View,4500 Dixie Hill Rd,Elementary,Fairfax,22030,K6,https://eagleviewes.fcps.edu/,7033223100
+Fairfax Villa,10900 Santa Clara Dr,Elementary,Fairfax,22030,K6,https://fairfaxvillaes.fcps.edu/,7032672800
+Fairhill,3001 Chichester Ln,Elementary,Fairfax,22031,K6,https://fairhilles.fcps.edu/,7032088100
+Fairview,5815 Ox Rd,Elementary,Fairfax Station,22039,K6,https://fairviewes.fcps.edu/,7035033700
+Flint Hill,2444 Flint Hill Rd,Elementary,Vienna,22181,K6,https://flinthilles.fcps.edu/,7032426100
+Floris,2708 Centreville Rd,Elementary,Herndon,20171,K6,https://florises.fcps.edu/,7035612900
+Forest Edge,1501 Becontree Ln,Elementary,Reston,20190,K6,https://forestedgees.fcps.edu/,7039258000
+Forestdale,6530 Elder Ave,Elementary,Springfield,22150,K6,https://forestdalees.fcps.edu/,7033134300
+Forestville,1085 Utterback Store Rd,Elementary,Great Falls,22066,K6,https://forestvillees.fcps.edu/,7034046000
+Fort Hunt,8832 Linton Ln,Elementary,Alexandria,22308,K6,https://forthuntes.fcps.edu/,7036192600
+Fox Mill,2611 Viking Dr,Elementary,Herndon,20171,K6,https://foxmilles.fcps.edu/,7032622700
+Franconia,6301 Beulah St,Elementary,Alexandria,22310,K6,https://franconiaes.fcps.edu/,7038222200
+Franklin Sherman,6633 Brawner St,Elementary,McLean,22101,K6,https://franklinshermanes.fcps.edu/,7035067900
+Freedom Hill,1945 Lord Fairfax Rd,Elementary,Vienna,22182,K6,https://freedomhilles.fcps.edu/,7035067800
+Garfield,7101 Old Keene Mill Rd,Elementary,Springfield,22150,K6,https://garfieldes.fcps.edu/,7039232900
+Glen Forest,5829 Glen Forest Dr,Elementary,Falls Church,22041,K5,https://glenforestes.fcps.edu/,7035788000
+Graham Road,2831 Graham Rd,Elementary,Falls Church,22042,K6,https://grahamroades.fcps.edu/,5712262700
+Great Falls,701 Walker Rd,Elementary,Great Falls,22066,K6,https://greatfallses.fcps.edu/,7037572100
+Greenbriar East,13006 Point Pleasant Dr,Elementary,Fairfax,22033,K6,https://greenbriareastes.fcps.edu/,7036336400
+Greenbriar West,13300 Poplar Tree Rd,Elementary,Fairfax,22033,K6,https://greenbriarwestes.fcps.edu/,7036336700
+Groveton,6900 Harrison Ln,Elementary,Alexandria,22306,K6,https://grovetones.fcps.edu/,7037188000
+Gunston,10100 Gunston Rd,Elementary,Lorton,22079,K6,https://gunstones.fcps.edu/,7035413600
+Halley,8850 Cross Chase Cir,Elementary,Fairfax Station,22039,K6,https://halleyes.fcps.edu/,7035515700
+Haycock,6616 Haycock Rd,Elementary,Falls Church,22043,K6,https://haycockes.fcps.edu/,7035314000
+Hayfield,7633 Telegraph Rd,Elementary,Alexandria,22315,K6,https://hayfieldes.fcps.edu/,7039244500
+Herndon,630 Dranesville Rd,Elementary,Herndon,20170,K6,https://herndones.fcps.edu/,7033263100
+Hollin Meadows,2310 Nordok Pl,Elementary,Alexandria,22306,K6,https://hollinmeadowses.fcps.edu/,7037188300
+Hunt Valley,7107 Sydenstricker Rd,Elementary,Springfield,22152,K6,https://huntvalleyes.fcps.edu/,7039138800
+Hunters Woods,2401 Colts Neck Rd,Elementary,Reston,20191,K6,https://hunterswoodses.fcps.edu/,7032627400
+Hutchison,13209 Parcher Ave,Elementary,Herndon,20170,K6,https://hutchisones.fcps.edu/,7039258300
+Hybla Valley,3415 Lockheed Blvd,Elementary,Alexandria,22306,K6,https://hyblavalleyes.fcps.edu/,7037187000
+Island Creek,7855 Morning View Ln,Elementary,Alexandria,22315,K6,https://islandcreekes.fcps.edu/,5716426300
+Keene Mill,6310 Bardu Ave,Elementary,Springfield,22152,K6,https://keenemilles.fcps.edu/,7036444700
+Kent Gardens,1717 Melbourne Dr,Elementary,McLean,22101,K6,https://kentgardenses.fcps.edu/,7033945600
+Kings Park,5400 Harrow Way,Elementary,Springfield,22151,K3,https://kingsparkes.fcps.edu/,7034267000
+Lake Anne,11510 North Shore Dr,Elementary,Reston,20190,K6,https://lakeannees.fcps.edu/,7033263500
+Lane,7137 Beulah St,Elementary,Alexandria,22315,K6,https://lanees.fcps.edu/,7039247700
+Laurel Hill,8390 Laurel Crest Dr,Elementary,Lorton,22079,K6,https://laurelhilles.fcps.edu/,7035515300
+Laurel Ridge,10110 Commonwealth Blvd,Elementary,Fairfax,22032,K6,https://laurelridgees.fcps.edu/,7034263700
+Lees Corner,13500 Hollinger Ave,Elementary,Fairfax,22033,K6,https://leescorneres.fcps.edu/,7032273500
+Lemon Road,7230 Idylwood Rd,Elementary,Falls Church,22043,K6,https://lemonroades.fcps.edu/,7037146400
+Little Run,4511 Olley Ln,Elementary,Fairfax,22032,K6,https://littlerunes.fcps.edu/,7035033500
+London Towne,6100 Stone Rd,Elementary,Centreville,20120,K6,https://londontownees.fcps.edu/,7032275400
+Lorton Station,9298 Lewis Chapel Rd,Elementary,Lorton,22079,K6,https://lortonstationes.fcps.edu/,5716426000
+Louise Archer,324 Nutley St Nw,Elementary,Vienna,22180,K6,https://archeres.fcps.edu/,7039376200
+Lynbrook,5801 Backlick Rd,Elementary,Springfield,22150,K6,https://lynbrookes.fcps.edu/,7038662940
+Mantua,9107 Horner Ct,Elementary,Fairfax,22031,K6,https://mantuaes.fcps.edu/,7036456300
+Marshall Road,730 Marshall Rd Sw,Elementary,Vienna,22180,K6,https://marshallroades.fcps.edu/,7039371500
+Mason Crest,3705 Crest Dr,Elementary,Annandale,22003,K5,https://masoncrestes.fcps.edu/,5712262600
+Mosaic,9819 Five Oaks Rd,Elementary,Fairfax,22031,K6,https://mosaices.fcps.edu/,7039371600
+Mount Eagle,6116 N Kings Hwy,Elementary,Alexandria,22303,K6,https://mounteaglees.fcps.edu/,7037212100
+Mount Vernon Woods,4015 Fielding St,Elementary,Alexandria,22309,K6,https://mountvernonwoodses.fcps.edu/,7036192800
+Navy,3500 West Ox Rd,Elementary,Fairfax,22033,K6,https://navyes.fcps.edu/,7032627100
+Newington Forest,8001 Newington Forest Ave,Elementary,Springfield,22153,K6,https://newingtonforestes.fcps.edu/,7039232600
+North Springfield,7602 Heming Ct,Elementary,Springfield,22151,K5,https://northspringfieldes.fcps.edu/,7036585500
+Oak Hill,3210 Kinross Cir,Elementary,Herndon,20171,K6,https://oakhilles.fcps.edu/,7034673500
+Oak View,5004 Sideburn Rd,Elementary,Fairfax,22032,K6,https://oakviewes.fcps.edu/,7037647100
+Oakton,3000 Chain Bridge Rd,Elementary,Oakton,22124,K6,https://oaktones.fcps.edu/,7039376100
+Olde Creek,9524 Old Creek Dr,Elementary,Fairfax,22032,K6,https://oldecreekes.fcps.edu/,7034263100
+Orange Hunt,6820 Sydenstricker Rd,Elementary,Springfield,22152,K6,https://orangehuntes.fcps.edu/,7039136800
+Parklawn,4116 Braddock Rd,Elementary,Alexandria,22312,K5,https://parklawnes.fcps.edu/,7039146900
+Pine Spring,7607 Willow Ln,Elementary,Falls Church,22042,K6,https://pinespringes.fcps.edu/,5712264400
+Poplar Tree,13440 Melville Ln,Elementary,Chantilly,20151,K6,https://poplartreees.fcps.edu/,7036337400
+Powell,13340 Leland Rd,Elementary,Centreville,20120,K6,https://powelles.fcps.edu/,5715226000
+Providence,3616 Jermantown Rd,Elementary,Fairfax,22030,K6,https://providencees.fcps.edu/,7034604400
+Ravensworth,5411 Nutting Dr,Elementary,Springfield,22151,K6,https://ravensworthes.fcps.edu/,7034263600
+Riverside,8410 Old Mt Vernon Rd,Elementary,Alexandria,22309,K6,https://riversidees.fcps.edu/,7037996000
+Rolling Valley,6703 Barnack Dr,Elementary,Springfield,22152,K6,https://rollingvalleyes.fcps.edu/,7039232700
+Rose Hill,6301 Rose Hill Dr,Elementary,Alexandria,22310,K6,https://rosehilles.fcps.edu/,7033134200
+Sangster,7420 Reservation Dr,Elementary,Springfield,22153,K6,https://sangsteres.fcps.edu/,7036448200
+Saratoga,8111 Northumberland Rd,Elementary,Springfield,22153,K6,https://saratogaes.fcps.edu/,7034402600
+Shrevewood,7525 Shreve Rd,Elementary,Falls Church,22043,K6,https://shrevewoodes.fcps.edu/,7036456600
+Silverbrook,9350 Crosspointe Dr,Elementary,Fairfax Station,22039,K6,https://silverbrookes.fcps.edu/,7036905100
+Sleepy Hollow,3333 Sleepy Hollow Rd,Elementary,Falls Church,22044,K5,https://sleepyhollowes.fcps.edu/,7032377000
+Spring Hill,8201 Lewinsville Rd,Elementary,McLean,22102,K6,https://springhilles.fcps.edu/,7035063400
+Springfield Estates,6200 Charles C Goff Dr,Elementary,Springfield,22150,K6,https://springfieldestateses.fcps.edu/,7039212300
+Stenwood,2620 Gallows Rd,Elementary,Vienna,22180,K6,https://stenwoodes.fcps.edu/,7032087600
+Stratford Landing,8484 Riverside Rd,Elementary,Alexandria,22308,K6,https://stratfordlandinges.fcps.edu/,7036193600
+Sunrise Valley,10824 Cross School Rd,Elementary,Reston,20191,K6,https://sunrisevalleyes.fcps.edu/,7037153800
+Terra Centre,6000 Burke Centre Pkwy,Elementary,Burke,22015,K6,https://terracentrees.fcps.edu/,7032491400
+Terraset,11411 Ridge Heights Rd,Elementary,Reston,20191,K6,https://terrasetes.fcps.edu/,7033905600
+Timber Lane,2737 West St,Elementary,Falls Church,22046,K6,https://timberlanees.fcps.edu/,7032065300
+Union Mill,13611 Springstone Dr,Elementary,Clifton,20124,K6,https://unionmilles.fcps.edu/,7033228500
+Vienna,128 Center St S,Elementary,Vienna,22180,K6,https://viennaes.fcps.edu/,7039376000
+Virginia Run,15450 Martins Hundred Dr,Elementary,Centreville,20120,K6,https://virginiarunes.fcps.edu/,7039888900
+Wakefield Forest,4011 Iva Ln,Elementary,Fairfax,22032,K6,https://wakefieldforestes.fcps.edu/,7035032300
+Waples Mill,11509 Waples Mill Rd,Elementary,Oakton,22124,K6,https://waplesmilles.fcps.edu/,7033907700
+Washington Mill,9100 Cherrytree Dr,Elementary,Alexandria,22309,K6,https://washingtonmilles.fcps.edu/,7036192500
+Waynewood,1205 Waynewood Blvd,Elementary,Alexandria,22308,K6,https://waynewoodes.fcps.edu/,7037047100
+West Springfield,6802 Deland Dr,Elementary,Springfield,22152,K6,https://westspringfieldes.fcps.edu/,7039124400
+Westbriar,1741 Pine Valley Dr,Elementary,Vienna,22182,K6,https://westbriares.fcps.edu/,7039371700
+Westgate,7500 Magarity Rd,Elementary,Falls Church,22043,K6,https://westgatees.fcps.edu/,7036105700
+Westlawn,3200 Westley Rd,Elementary,Falls Church,22042,K6,https://westlawnes.fcps.edu/,7032415100
+Weyanoke,6520 Braddock Rd,Elementary,Alexandria,22312,K5,https://weyanokees.fcps.edu/,7038135400
+White Oaks,6130 Shiplett Blvd,Elementary,Burke,22015,K6,https://whiteoakses.fcps.edu/,7039231400
+Willow Springs,5400 Willow Springs School Rd,Elementary,Fairfax,22030,K6,https://willowspringses.fcps.edu/,7036796000
+Wolftrap,1903 Beulah Rd,Elementary,Vienna,22182,K6,https://wolftrapes.fcps.edu/,7033197300
+Woodburn,3401 Hemlock Dr,Elementary,Falls Church,22042,K6,https://woodburnes.fcps.edu/,7036418200
+Woodlawn,8505 Highland Ln,Elementary,Alexandria,22309,K6,https://woodlawnes.fcps.edu/,7036194800
+Woodley Hills,8718 Old Mt Vernon Rd,Elementary,Alexandria,22309,K6,https://woodleyhillses.fcps.edu/,7037992000
+Beech Tree,3401 Beechtree Ln,Elementary,Falls Church,22042,K5,https://beechtreees.fcps.edu/,7035312600
+Fort Belvoir Primary,5980 Meeres Rd,Elementary,Fort Belvoir,22060,K2,https://fortbelvoires.fcps.edu/,7037812700
+McNair,2499 Thomas Jefferson Dr,Elementary,Herndon,20171,K2,https://mcnaires.fcps.edu/,7037934800
+Fort Belvoir Upper,5970 Meeres Rd,Elementary,Fort Belvoir,22060,K3,https://fortbelvoires.fcps.edu/,7037812700
+Bailey's Upper,6245 Leesburg Pike,Elementary,Falls Church,22044,K5,https://baileyses.fcps.edu/,7035032700
+McNair Upper,2410 Fox Mill Rd,Elementary,Herndon,20171,K5,https://mcnaires.fcps.edu/,5719821700
+Kings Glen,5401 Danbury Forest Dr,Elementary,Springfield,22151,K5,https://kingsglenes.fcps.edu/,7032394000
